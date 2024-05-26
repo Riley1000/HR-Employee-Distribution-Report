@@ -15,6 +15,10 @@
 
 A project detailing employee distribution in a company under various categories to seek insights and find answers to a few questions asked.
 
+![Uploading hr dashboard.PNG…]()
+
+![hr dashboard](https://github.com/Riley1000/HR-Employee-Distribution-Report/assets/110679126/8a14f9f6-4771-4df6-be13-3442528b9564)
+
 ### Data Sources 
 
 The primary dataset used fot this analysis is the "Human_Resource.csv" file. It contains information about employees spaning various categories from the hire_date to the termdate.
@@ -27,7 +31,7 @@ The primary dataset used fot this analysis is the "Human_Resource.csv" file. It 
  ### Data Cleaning and Preparation
  
 1. A database was created in MySQL and the data imported using the "table import wizard"
-2. Table formatting and 
+2. Table formatting and data type changes
 
 ### Exploratory Data Analysis
 
